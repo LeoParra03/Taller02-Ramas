@@ -39,6 +39,7 @@
    </right>
    <top>
       <Label text="RadioLeo Top 10" BorderPane.alignment="CENTER">
+          
          <font>
             <Font name="System Bold" size="24.0" />
          </font>
